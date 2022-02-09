@@ -1,3 +1,4 @@
 Valami tartalom
 végleges változtatás
 conlikt másik
+conflikt 1
